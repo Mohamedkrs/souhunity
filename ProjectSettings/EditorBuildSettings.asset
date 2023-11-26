@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0f61869839006dd4b9a6f83364bdcafc
+  - enabled: 1
+    path: Assets/Games/TheMaze/Scenes/TheMaze.unity
+    guid: 5f66713930f36f84a865122d99889d76
+  - enabled: 1
+    path: Assets/Games/TheJumper/Scenes/TheJumper.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Games/TheJump/Scenes/TheJump.unity
+    guid: 4f8ac58ad997fb6499108f05742ca890
+  - enabled: 1
+    path: Assets/Games/TheEscapeRoom/Scenes/TheEscapeRoom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Games/TheCarSurfer/Scenes/HighScores.unity
+    guid: e6c03dbb475f5134a9e143caf9085767
+  - enabled: 1
+    path: Assets/Games/TheCarSurfer/Scenes/TheCarSurfer.unity
+    guid: 90ab8c5b9e50a0c468a3f501471eb79f
+  - enabled: 1
+    path: Assets/Games/TheJump/Scenes/TheJumpMainMenu.unity
+    guid: 6ebca4f2d28d9c14fbd3c196b6d7482f
+  - enabled: 1
+    path: Assets/Games/TheJumper/Scenes/TheJumperMainMenu.unity
+    guid: 7375e1c13bd24d546acfcefaeb538a62
+  - enabled: 1
+    path: Assets/Games/TheMaze/Scenes/TheMazeMainMenu.unity
+    guid: 9f235dcd6320d4446b994b6e177e34de
+  - enabled: 1
+    path: Assets/Games/TheCarSurfer/Scenes/TheCarSurferMainMenu.unity
+    guid: eb70cdd46bf98394cae9e5ac80de751b
+  - enabled: 0
+    path: Assets/Games/TheMaze/Scenes/MainMenuMaze.unity
+    guid: c50adc9fa9f3f964f9d3a3e0c61b2f39
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1073c9e5bf850b8478cef05735a7032b,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 13371dad609dad046b76ba23f4eb995f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: fc69aeba9ed04c14dac45dacf1cd6c02, type: 2}
